@@ -33,7 +33,6 @@ cd trainingrepo
 Executer les commandes git
 
 ```shell
-git remote rename origin old-origin
 git remote add origin <l'url de votre projet git>
 git push --set-upstream origin --all
 ```
