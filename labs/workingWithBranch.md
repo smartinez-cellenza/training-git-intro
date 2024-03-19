@@ -121,7 +121,7 @@ git commit -m "update readme.md"
 Executez l'opération de merge
 
 ```shell
-git merge feature1
+git merge feature2
 ```
 
 > Un message de commit est nécessaire. La raison est que git va devoir créer un commit supplémentaire pour l'opération de merge, la branche source ayant évoluée entre le moment de la création de la branche de feature et l'opération de merge.
