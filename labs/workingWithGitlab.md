@@ -1,4 +1,4 @@
-# Travailler avec les branches
+# Travailler avec Gitlab
 
 ## Overview
 
