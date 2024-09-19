@@ -92,7 +92,7 @@ git status
 Pour retirer le fichier *variables.tf* de la zone de staging, exécutez la commande
 
 ```shell
-git reset HEAD .\src\variables.tf
+git reset src/variables.tf
 ```
 
 Lancez la commande git
